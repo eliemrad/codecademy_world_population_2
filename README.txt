@@ -1,0 +1,1 @@
+This is my submission of "World Population 2" challenge in SQL course in Data Science learning path.
